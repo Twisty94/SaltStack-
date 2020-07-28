@@ -1,0 +1,4 @@
+# sudo apt-get purge mysql* -V - удаление MySQL
+# find / -name "*log*" -type f -size +500M -ls поисков *.log 
+# du -shx /var/log/elasticsearch/graylogger/* 2>error.log поиск файлов и показывает 
+
